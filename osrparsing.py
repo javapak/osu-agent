@@ -1,4 +1,4 @@
-from circleparse import replay # library for parsing osu! replays, which are formatted and stored in .osr files.from circleparse import replay
+from circleparse import replay # library for parsing osu! replays, which are formatted and stored in .osr files.
 
 
 class processedReplay:
