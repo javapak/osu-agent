@@ -6,6 +6,6 @@ A utility that may be useful for those interested in artificial intelligence pro
 </p>
 
 <h3>What is osu?</h3>
-> -- <cite>[Wikipedia](https://en.wikipedia.org/wiki/Osu!)</cite>
+> -- <cite>[Wikipedia](https://en.wikipedia.org/wiki/osu!)</cite> -- <
 
 
